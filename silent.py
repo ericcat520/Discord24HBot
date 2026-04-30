@@ -1,0 +1,1 @@
+ffmpeg -f lavfi -i anullsrc=r=44100:cl=mono -t 60 -q:a 9 -acodec libmp3lame silent.mp3
