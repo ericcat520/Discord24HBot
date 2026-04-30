@@ -1,0 +1,3 @@
+discord.py==2.3.2
+PyNaCl==1.5.0
+ffmpeg-python==0.2.0
